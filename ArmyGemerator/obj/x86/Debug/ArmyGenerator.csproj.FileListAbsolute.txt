@@ -1,0 +1,101 @@
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Bakgrund.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\book decorations.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\BookBackground.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Buttons.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\magic.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\MousePointer.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Pimplehammer Markers.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Pos.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\PressableButtons.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\show.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\sort.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\SpellDecoration.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\turnArmy.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\UpDownButons.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\ArmyGemerator.exe
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\ArmyGemerator.pdb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csprojResolveAssemblyReference.cache
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csproj.CopyComplete
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGemerator.exe
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGemerator.pdb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\PageSound.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Click.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Crystal.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\horse.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Sword.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Arrow.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Delete.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\BlinkingLine.xnb
+C:\Users\ystlu\source\repos\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\take_loan.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Arrow.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Bakgrund.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\BlinkingLine.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\book decorations.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\BookBackground.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Buttons.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Click.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Crystal.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Delete.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\horse.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\magic.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\MousePointer.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\PageSound.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Pimplehammer Markers.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Pos.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\PressableButtons.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\show.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\sort.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\SpellDecoration.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\Sword.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\take_loan.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\turnArmy.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\UpDownButons.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\ArmyGemerator.exe
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\ArmyGemerator.pdb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csprojAssemblyReference.cache
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGenerator.csproj.CopyComplete
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGemerator.exe
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\obj\x86\Debug\ArmyGemerator.pdb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\SpellSymbols.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\doot.xnb
+C:\Users\ystlu\Documents\Visual Studio 2017\Projects\ArmyGemerator\ArmyGemerator\bin\Windows\x86\Debug\Content\dootTexture.xnb

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B5A273FE-5631-46F5-9E2B-3A88902331C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ArmyGemerator</RootNamespace>
+    <AssemblyName>ArmyGemerator</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Buttons\BackGround.cs" />
+    <Compile Include="Input and Handling\Regiment\Doot.cs" />
+    <Compile Include="Input and Handling\Settings\GraphicsSetting.cs" />
+    <Compile Include="Input and Handling\Army\ArmySupporter.cs" />
+    <Compile Include="Base soldiers\Artilleryman.cs" />
+    <Compile Include="Base soldiers\BaseUnit.cs" />
+    <Compile Include="Base soldiers\Beast.cs" />
+    <Compile Include="Base soldiers\BaseFightingMen.cs" />
+    <Compile Include="Base soldiers\BaseHumanoid.cs" />
+    <Compile Include="Base soldiers\BaseSoldiers.cs" />
+    <Compile Include="Base soldiers\BaseHero.cs" />
+    <Compile Include="Base soldiers\BaseCentaur.cs" />
+    <Compile Include="Base soldiers\BaseDryad.cs" />
+    <Compile Include="Base soldiers\CentaurHero.cs" />
+    <Compile Include="Base soldiers\CentaurSoldier.cs" />
+    <Compile Include="Base soldiers\DryadHero.cs" />
+    <Compile Include="Base soldiers\DryadSoldier.cs" />
+    <Compile Include="Equipment\Unit Upgrades\ArtilleryEngineer.cs" />
+    <Compile Include="Equipment\HeroTime\Dragonslayer.cs" />
+    <Compile Include="Equipment\Spells\DarkSummon.cs" />
+    <Compile Include="Equipment\Spells\EarthSummon.cs" />
+    <Compile Include="Equipment\Spells\FireSummon.cs" />
+    <Compile Include="Input and Handling\Decoration.cs" />
+    <Compile Include="Equipment\Spells\AirSummon.cs" />
+    <Compile Include="Armies\BaseArmy.cs" />
+    <Compile Include="Armies\Barbarians.cs" />
+    <Compile Include="Armies\Beastmen.cs" />
+    <Compile Include="Armies\Centaur.cs" />
+    <Compile Include="Armies\Creatures.cs" />
+    <Compile Include="Armies\Demon.cs" />
+    <Compile Include="Armies\Dryads.cs" />
+    <Compile Include="Armies\Dwarf.cs" />
+    <Compile Include="Armies\Elf.cs" />
+    <Compile Include="Armies\Goblins.cs" />
+    <Compile Include="Armies\Halfling.cs" />
+    <Compile Include="Armies\Hobgoblin.cs" />
+    <Compile Include="Armies\Human.cs" />
+    <Compile Include="Armies\Lizardmen.cs" />
+    <Compile Include="Armies\Ogre.cs" />
+    <Compile Include="Armies\Orc.cs" />
+    <Compile Include="Armies\Ratmen.cs" />
+    <Compile Include="Armies\Undead.cs" />
+    <Compile Include="Equipment\Spells\Barrier.cs" />
+    <Compile Include="Equipment\Spells\DarkBlast.cs" />
+    <Compile Include="Equipment\Spells\Distract.cs" />
+    <Compile Include="Equipment\Spells\EarthBlast.cs" />
+    <Compile Include="Equipment\HeroTime\ArmyStandard.cs" />
+    <Compile Include="Equipment\HeroTime\Conjurer.cs" />
+    <Compile Include="Equipment\HeroTime\EagleEyed.cs" />
+    <Compile Include="Equipment\HeroTime\Enchanter.cs" />
+    <Compile Include="Equipment\Unit Upgrades\Bannerbearer.cs" />
+    <Compile Include="Equipment\Veterans\Commandos.cs" />
+    <Compile Include="Equipment\Veterans\Diciples.cs" />
+    <Compile Include="Equipment\Mount\Charger.cs" />
+    <Compile Include="Equipment\Mount\Courser.cs" />
+    <Compile Include="Equipment\Artillery\Balista.cs" />
+    <Compile Include="Buttons\EquipmentMarkButton.cs" />
+    <Compile Include="Equipment\Artillery\Cannon.cs" />
+    <Compile Include="Equipment\Weapons\DualWieldedWeapon.cs" />
+    <Compile Include="Equipment\Artillery\FlameThrower.cs" />
+    <Compile Include="Equipment\Artillery\HeavyCatapult.cs" />
+    <Compile Include="Equipment\Mount\Flyer.cs" />
+    <Compile Include="Equipment\Mount\HeayChariot.cs" />
+    <Compile Include="Equipment\Veterans\Fire-Arrows.cs" />
+    <Compile Include="Equipment\HeroTime\GreatWarrior.cs" />
+    <Compile Include="Equipment\RangeWeapon\Handgonne.cs" />
+    <Compile Include="Equipment\RangeWeapon\HeavyCrossbow.cs" />
+    <Compile Include="Equipment\Spells\FireBlast.cs" />
+    <Compile Include="Equipment\Spells\Healing.cs" />
+    <Compile Include="Equipment\Spells\HolyBlast.cs" />
+    <Compile Include="Equipment\Spells\HolySummon.cs" />
+    <Compile Include="Equipment\Spells\IceBlast.cs" />
+    <Compile Include="Equipment\Spells\IceSummon.cs" />
+    <Compile Include="Input and Handling\Army\ArmyTextWriter.cs" />
+    <Compile Include="Buttons\Button.cs" />
+    <Compile Include="Equipment\Armour\Armour.cs" />
+    <Compile Include="Equipment\Armour\CoveringArmour.cs" />
+    <Compile Include="Equipment\Armour\CoveringPlateHorseArmour.cs" />
+    <Compile Include="Equipment\Artillery\Artillery.cs" />
+    <Compile Include="Equipment\Equipment.cs" />
+    <Compile Include="Equipment\Armour\FullPlateArmour.cs" />
+    <Compile Include="Equipment\Armour\HeavyHorseArmour.cs" />
+    <Compile Include="Equipment\Field Fortifications\FieldFortification .cs" />
+    <Compile Include="Equipment\HeroTime\GenericHero.cs" />
+    <Compile Include="Equipment\HeroTime\HeroTraits.cs" />
+    <Compile Include="Equipment\Mount\Feet.cs" />
+    <Compile Include="Equipment\RangeWeapon\RangeWeapon.cs" />
+    <Compile Include="Equipment\RangeWeapon\GoodOldFists.cs" />
+    <Compile Include="Equipment\Weapons\SideArm.cs" />
+    <Compile Include="Equipment\Veterans\GenericVeteran.cs" />
+    <Compile Include="Input and Handling\Army\Army.cs" />
+    <Compile Include="Input and Handling\Army\ArmyHandler.cs" />
+    <Compile Include="Buttons\AllFather.cs" />
+    <Compile Include="Input and Handling\Core Game\GameSetting.cs" />
+    <Compile Include="Input and Handling\Core Game\Game1.cs" />
+    <Compile Include="Input and Handling\Writing and Input\MouseClass.cs" />
+    <Compile Include="Input and Handling\Core Game\Program.cs" />
+    <Compile Include="Equipment\Armour\PartialHorseArmour.cs" />
+    <Compile Include="Equipment\Field Fortifications\NoFortifications.cs" />
+    <Compile Include="Equipment\Artillery\NoArtilery.cs" />
+    <Compile Include="Equipment\Mount\Mount.cs" />
+    <Compile Include="Equipment\Unit Upgrades\NoUnitUpdate.cs" />
+    <Compile Include="Equipment\Weapons\MeleeWeapons.cs" />
+    <Compile Include="Buttons\MarkButton.cs" />
+    <Compile Include="Buttons\Marker.cs" />
+    <Compile Include="Buttons\NumberOfSoldierButton.cs" />
+    <Compile Include="Input and Handling\Regiment\Name.cs" />
+    <Compile Include="Input and Handling\Regiment\ItemAdder.cs" />
+    <Compile Include="Input and Handling\Regiment\MarkButtonHandler.cs" />
+    <Compile Include="Input and Handling\Writing and Input\NumberHandler.cs" />
+    <Compile Include="Buttons\Parchment.cs" />
+    <Compile Include="Equipment\Weapons\Lance.cs" />
+    <Compile Include="Equipment\Weapons\LongSword.cs" />
+    <Compile Include="Equipment\Weapons\Pavise.cs" />
+    <Compile Include="Equipment\Weapons\Pike.cs" />
+    <Compile Include="Equipment\Weapons\Polearm.cs" />
+    <Compile Include="Equipment\Field Fortifications\Mantles.cs" />
+    <Compile Include="Equipment\Artillery\LightCatapult.cs" />
+    <Compile Include="Equipment\Mount\LightChariot.cs" />
+    <Compile Include="Equipment\Mount\MounsterousMount.cs" />
+    <Compile Include="Equipment\Veterans\MagicallyCharged.cs" />
+    <Compile Include="Equipment\Veterans\Possesed.cs" />
+    <Compile Include="Equipment\Unit Upgrades\Muscicians.cs" />
+    <Compile Include="Equipment\HeroTime\InspiringLeader.cs" />
+    <Compile Include="Equipment\RangeWeapon\LightCrossbow.cs" />
+    <Compile Include="Equipment\RangeWeapon\Longbow.cs" />
+    <Compile Include="Equipment\RangeWeapon\Pistol.cs" />
+    <Compile Include="Equipment\Spells\Inspire.cs" />
+    <Compile Include="Equipment\Spells\LightningBlast.cs" />
+    <Compile Include="Equipment\Spells\Motivate.cs" />
+    <Compile Include="Equipment\Spells\Panic.cs" />
+    <Compile Include="Input and Handling\Core Game\Load.cs" />
+    <Compile Include="Input and Handling\Writing and Input\Line.cs" />
+    <Compile Include="Base soldiers\NonHeroHumanoid.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Input and Handling\Regiment\RegimentHandler.cs" />
+    <Compile Include="Input and Handling\Regiment\Regiment.cs" />
+    <Compile Include="Equipment\Armour\SparseArmour.cs" />
+    <Compile Include="Equipment\Armour\UnArmoured.cs" />
+    <Compile Include="Equipment\Spells\SpellsClass.cs" />
+    <Compile Include="Equipment\Unit Upgrades\UnitUpgrades.cs" />
+    <Compile Include="Equipment\Veterans\Veteran.cs" />
+    <Compile Include="Buttons\SwitchArmyButton.cs" />
+    <Compile Include="Buttons\UpDownButtons.cs" />
+    <Compile Include="Input and Handling\Writing and Input\WriteClass.cs" />
+    <Compile Include="Input and Handling\Regiment\TextHandler.cs" />
+    <Compile Include="Equipment\Weapons\Shield.cs" />
+    <Compile Include="Equipment\Weapons\Spear.cs" />
+    <Compile Include="Equipment\Weapons\Warhammer.cs" />
+    <Compile Include="Equipment\Field Fortifications\SharpenedStakes.cs" />
+    <Compile Include="Equipment\Field Fortifications\WarWagon.cs" />
+    <Compile Include="Equipment\Artillery\RibualtGun.cs" />
+    <Compile Include="Equipment\Veterans\Rangers.cs" />
+    <Compile Include="Equipment\Veterans\Reckless.cs" />
+    <Compile Include="Equipment\Veterans\SavageFighters.cs" />
+    <Compile Include="Equipment\Veterans\Skirmishers.cs" />
+    <Compile Include="Equipment\Veterans\Winged.cs" />
+    <Compile Include="Equipment\Veterans\Zombify.cs" />
+    <Compile Include="Equipment\Unit Upgrades\UnitLeader.cs" />
+    <Compile Include="Equipment\HeroTime\TrueHero.cs" />
+    <Compile Include="Equipment\RangeWeapon\Shortbow.cs" />
+    <Compile Include="Equipment\RangeWeapon\Sling.cs" />
+    <Compile Include="Equipment\RangeWeapon\ThrowingWeapon.cs" />
+    <Compile Include="Equipment\Spells\Weaken.cs" />
+    <Compile Include="Input and Handling\Regiment\UnitLoad.cs" />
+    <Compile Include="Input and Handling\Core Game\Save.cs" />
+    <Compile Include="Input and Handling\Regiment\Spells.cs" />
+    <Compile Include="Input and Handling\Regiment\UnitSave.cs" />
+    <Compile Include="Buttons\SpellSlots.cs" />
+    <Compile Include="Input and Handling\Writing and Input\SliderClass.cs" />
+    <Compile Include="Input and Handling\Regiment\RegimentSupport.cs" />
+    <Compile Include="Input and Handling\Settings\ScreenSize.cs" />
+    <Compile Include="Buttons\RoundUpNumberOfSoldierButton.cs" />
+    <Compile Include="Input and Handling\Settings\ScreenResolutionLoader.cs" />
+    <Compile Include="Buttons\ScreenSizeButton.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

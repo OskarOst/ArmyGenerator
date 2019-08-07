@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/doot.wav</SourceFile>
+  <SourceTime>2019-08-06T22:57:19.8904977+02:00</SourceTime>
+  <DestFile>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/bin/Windows/doot.xnb</DestFile>
+  <DestTime>2019-08-06T22:58:08.8722813+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Font.spritefont</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/book decorations.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/BookBackground.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Buttons.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Bakgrund.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/magic.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/MousePointer.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Pimplehammer Markers.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Pos.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/PressableButtons.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/show.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/sort.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/SpellDecoration.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/turnArmy.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/UpDownButons.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/PageSound.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Click.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Crystal.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/horse.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Sword.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Arrow.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/Delete.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/BlinkingLine.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/take_loan.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/SpellSymbols.png</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/doot.wav</File>
+    <File>C:/Users/ystlu/Documents/Visual Studio 2017/Projects/ArmyGemerator/ArmyGemerator/Content/dootTexture.png</File>
+  </SourceFiles>
+</SourceFileCollection>

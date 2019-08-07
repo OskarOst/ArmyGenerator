@@ -1,0 +1,14 @@
+screenwidth = 1600;
+screenheight = 900;
+halfwayPointScreen = screenwidth / 2;
+armyYStartPos = 130;
+armyXStartPos = 80;
+SwitchArmyButtonsPositionX = 66;
+SwitchArmyButtonsPositionY = 21;
+SwitchArmyButtonsPositionX2 = 1439;
+cutOffSize = 90;
+regimentCancel = 40;
+yStartPosMagic = 30;
+yCuttOff = 20;
+yStartRegimentLoad = 40;
+markButtonStartPos = 20;

@@ -1,0 +1,13 @@
+screenwidth = 1920;
+screenheight = 1080;
+armyYStartPos = 150;
+armyXStartPos = 110;
+SwitchArmyButtonsPositionX = 77;
+SwitchArmyButtonsPositionY = 26;
+SwitchArmyButtonsPositionX2 = 1730;
+cutOffSize = 110;
+regimentCancel = 40;
+yStartPosMagic = 30;
+yCuttOff = 40;
+yStartRegimentLoad = 50;
+markButtonStartPos = 50;
